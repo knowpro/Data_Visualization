@@ -1,0 +1,12 @@
+If sales is higher than 300, set sales category to "Excellent"
+If sales is below 300 & above 100, set sales category to "Moderate"
+If sales is less than 100, set sales catefory to "Poor"
+
+use conditional formatting for Sales column -
+1. Use custom color for sales values between 200 to 300
+
+use conditional formatting for COGS column -
+1. Use custom color for COGS values between 80
+
+Correlation values can range from -1 to 101
+
